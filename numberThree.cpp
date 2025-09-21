@@ -13,6 +13,4 @@ int main () {
     cout<< "Lenght of string: " << len <<endl;
     return 0 ;
 
-
-
 }
