@@ -1,5 +1,5 @@
-# Zadachi 
-**Five starting tasks**
+# **Zadachi.** **Five starting tasks**
+
 
 ( •̀ ω •́ )✧
 
